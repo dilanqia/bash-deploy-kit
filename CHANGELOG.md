@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-27
+
+- wip: blue-green deploy module skeleton
+
 ## 2026-05-26
 
 - feat: basic rolling update functionality
