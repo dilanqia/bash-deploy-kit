@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-01
+
+- feat: add health checks support
+
 ## 2026-05-28
 
 - wip: rolling update module skeleton
