@@ -151,3 +151,5 @@ bash tests/test_common.sh
 <!-- history: 2026-06-01 -->
 
 <!-- history: 2026-06-01 -->
+
+<!-- history: 2026-06-02 -->

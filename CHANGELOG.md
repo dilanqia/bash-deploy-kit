@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-02
+
+- refactor: restructure blue-green deploy module
+
 ## 2026-06-01
 
 - feat: add health checks support
