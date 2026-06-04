@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-04
+
+- test: expand test coverage
+
 ## 2026-06-03
 
 - feat: add rollback functions support
