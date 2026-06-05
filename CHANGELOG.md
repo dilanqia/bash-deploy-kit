@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-05
+
+- chore: update dependencies
+
 ## 2026-06-04
 
 - test: expand test coverage
